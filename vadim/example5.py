@@ -1,0 +1,6 @@
+a = input('What is the first number?')
+b = input('What is the second number?')
+print (a + b)
+print (a - b)
+print (a * b)
+print (a / b)
