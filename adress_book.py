@@ -10,6 +10,7 @@ def timer(fun):
 
     return tmp
 
+
 class Entry:
 
     def __init__(self, name, address, lastname, phone, email, job):
